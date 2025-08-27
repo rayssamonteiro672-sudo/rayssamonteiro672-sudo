@@ -1,4 +1,4 @@
-## Hi there 👋
+Meu nome é Rayssa de Sousa Monteiro, sou natural de Fortaleza (CE). Estou cursando Desenvolvimento de Sistemas no SENAI.
 
 <!--
 **rayssamonteiro672-sudo/rayssamonteiro672-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
