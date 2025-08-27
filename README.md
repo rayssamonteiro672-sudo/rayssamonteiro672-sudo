@@ -1,4 +1,4 @@
-Meu nome é Rayssa de Sousa, sou natural de Fortaleza (CE), estou cursando Desenvolvimento de Sistemas no SENAI, aprofundando meus conhecimentos em tecnologia e programação.
+Meu nome é Rayssa de Sousa, sou natural de Fortaleza (CE), estou cursando Desenvolvimento de Sistemas no SENAI, aprofundando meus conhecimentos em tecnologia e programação. 🖱
 <!--
 **rayssamonteiro672-sudo/rayssamonteiro672-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
